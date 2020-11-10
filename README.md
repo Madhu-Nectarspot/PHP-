@@ -1,1 +1,1 @@
-# PHP-
+# PHP- Stripe Payment Integration
